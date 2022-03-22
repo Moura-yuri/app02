@@ -55,10 +55,6 @@ export class UserPage implements OnInit {
 
       });
 
-      console.log(this.manuals);
-
     });
-
   }
-
 }
